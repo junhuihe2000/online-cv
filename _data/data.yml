@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     timezone: China/Beijing Timezone
     citizenship: China
-    website: https://junhuihe2000.github.io/mmistakes/ #do not add http://
+    website: junhuihe2000.github.io/mmistakes/ #do not add http://
     # linkedin: alandoe
     # xing: alandoe
     github: junhuihe2000
@@ -27,7 +27,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -44,13 +44,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Study
+        - item: Study!
           link:
 
-        - item: Study
+        - item: Study!
           link:
 
-        - item: Study
+        - item: Study!
           link:
 
 career-profile:
