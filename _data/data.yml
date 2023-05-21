@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Junhui He(何俊辉)
+    name: Junhui He (何俊辉)
     tagline: PhD student in Statistics
     avatar: my-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
