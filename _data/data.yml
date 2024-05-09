@@ -64,10 +64,10 @@ education:
       - degree: BSc in Mathematics and Applied Mathematics
         university: Tsinghua University
         time: 2018 - 2022
-        
-      - degree: High school students
-        university: No.1 Middle School of Linchuan
-        time: 2012 - 2018
+     
+      # - degree: High school students
+      #   university: No.1 Middle School of Linchuan
+      #   time: 2012 - 2018
 experiences:
     title: Experiences
     info:
